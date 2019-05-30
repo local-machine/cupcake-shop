@@ -9,7 +9,16 @@ h1 {
   text-align: center;
 }
 h2 {
-  font-family: cursive;
+  font-family: monospace;
   font-weight: lighter;
   text-align: center;
+}
+.flashy {
+  color: red;
+  font-style: italic;
+}
+.best {
+  font-weight: bolder;
+  font-style: oblique;
+  color: teal
 }
